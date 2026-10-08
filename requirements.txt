@@ -1,0 +1,8 @@
+praw
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
